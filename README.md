@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/The-OG-Methum/Social-links-profile)
+- Live Site URL: [live site URL here](https://sociallinks-profile.netlify.app)
 
 ## My process
 I initiated the project by carefully reviewing the provided readme notes to gain a comprehensive understanding of the requirements. To ensure visual consistency and aesthetic appeal, I proceeded to install the specified fonts tailored for this project.Next, I focused on structuring the project. Initially, I conceptualized the layout in my mind, carefully considering design principles and user experience. Subsequently, I meticulously translated this conceptualization into a tangible structure, aligning it with the design specifications provided in the accompanying images.
@@ -81,6 +81,6 @@ These resources have played a crucial role in my learning journey, offering clar
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [GitHub](https://github.com/The-OG-Methum)
+- Frontend Mentor - [@The-OG-Methum](https://www.frontendmentor.io/profile/The-OG-Methum)
+
