@@ -107,10 +107,6 @@ img{
 }
 
 
-.attribution a {
-    color: hsl(0, 100%, 50%); 
-    text-decoration: none; 
-}
 
 .attribution a:hover {
     color: hsl(75, 94%, 57%);
