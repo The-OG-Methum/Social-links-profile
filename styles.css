@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-VariableFont_slnt,wght.ttf') format('truetype');
+    font-weight: 100 900; /* Specify the font weights you plan to use */
+    font-style: normal;
+}
+
+
+
+
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+
+.main-box{
+    width: 380px;
+    height: 580px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 15px;
+    margin-top: 85px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.buttons{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: -15px;
+    
+
+}
+
+.buttons button {
+    background-color: #333333;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    width: 300px;
+    height: 45px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    color: aliceblue;
+    font-family: inherit;
+    font-weight: bold;
+   
+
+}
+
+.buttons button:hover{
+
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+
+}
+
+
+.name{
+    text-align: center;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    margin-top: 25px;
+}
+
+
+.main-box h5{
+    text-align: center;
+    margin: -15px;
+  
+    color:  hsl(75, 94%, 57%);
+}
+
+.main-box p{
+    font-size: 15px;
+    margin-top: 40px;
+    color: white;
+    font-weight: 200;
+    text-align: center;
+}
+
+img{
+    justify-content: center;
+    display: block;
+    width: 90px;
+    border-radius: 150px;
+     margin-top: 30px;
+}
+
+.attribution{
+    color: white;
+    margin-top: 40px;
+}
+
+
+.attribution a {
+    color: hsl(0, 100%, 50%); 
+    text-decoration: none; 
+}
+
+.attribution a:hover {
+    color: hsl(75, 94%, 57%);
+}
