@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/The-OG-Methum/Social-links-profile)
-- Live Site URL: [Add live site URL here](https://sociallinks-profile.netlify.app)
+- Solution URL: [Solution URL](https://github.com/The-OG-Methum/Social-links-profile)
+- Live Site URL: [live site URL here](https://sociallinks-profile.netlify.app)
 
 ## My process
 I initiated the project by carefully reviewing the provided readme notes to gain a comprehensive understanding of the requirements. To ensure visual consistency and aesthetic appeal, I proceeded to install the specified fonts tailored for this project.
@@ -70,7 +70,7 @@ I'm currently focusing on:
 ## Author
 
 - [Methum](https://github.com/The-OG-Methum)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/The-OG-Methum)
+- Frontend Mentor - [@THE-OG-Methum](https://www.frontendmentor.io/profile/The-OG-Methum)
 
 
 ## Acknowledgments
